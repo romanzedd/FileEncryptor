@@ -1,0 +1,9 @@
+c:\users\rzayk\source\repos\fileEncryptor\fileEncryptor\bin\Release\fileEncryptor.exe.config
+c:\users\rzayk\source\repos\fileEncryptor\fileEncryptor\bin\Release\fileEncryptor.exe
+c:\users\rzayk\source\repos\fileEncryptor\fileEncryptor\bin\Release\fileEncryptor.pdb
+c:\users\rzayk\source\repos\fileEncryptor\fileEncryptor\obj\Release\fileEncryptor.Form1.resources
+c:\users\rzayk\source\repos\fileEncryptor\fileEncryptor\obj\Release\fileEncryptor.Properties.Resources.resources
+c:\users\rzayk\source\repos\fileEncryptor\fileEncryptor\obj\Release\fileEncryptor.csproj.GenerateResource.cache
+c:\users\rzayk\source\repos\fileEncryptor\fileEncryptor\obj\Release\fileEncryptor.csproj.CoreCompileInputs.cache
+c:\users\rzayk\source\repos\fileEncryptor\fileEncryptor\obj\Release\fileEncryptor.exe
+c:\users\rzayk\source\repos\fileEncryptor\fileEncryptor\obj\Release\fileEncryptor.pdb

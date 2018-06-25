@@ -1,0 +1,10 @@
+c:\users\rzayk\source\repos\fileEncryptor\fileEncryptor\obj\Debug\fileEncryptor.csprojResolveAssemblyReference.cache
+c:\users\rzayk\source\repos\fileEncryptor\fileEncryptor\obj\Debug\fileEncryptor.Form1.resources
+c:\users\rzayk\source\repos\fileEncryptor\fileEncryptor\obj\Debug\fileEncryptor.Properties.Resources.resources
+c:\users\rzayk\source\repos\fileEncryptor\fileEncryptor\obj\Debug\fileEncryptor.csproj.GenerateResource.cache
+c:\users\rzayk\source\repos\fileEncryptor\fileEncryptor\obj\Debug\fileEncryptor.csproj.CoreCompileInputs.cache
+c:\users\rzayk\source\repos\fileEncryptor\fileEncryptor\bin\Debug\fileEncryptor.exe.config
+c:\users\rzayk\source\repos\fileEncryptor\fileEncryptor\bin\Debug\fileEncryptor.exe
+c:\users\rzayk\source\repos\fileEncryptor\fileEncryptor\bin\Debug\fileEncryptor.pdb
+c:\users\rzayk\source\repos\fileEncryptor\fileEncryptor\obj\Debug\fileEncryptor.exe
+c:\users\rzayk\source\repos\fileEncryptor\fileEncryptor\obj\Debug\fileEncryptor.pdb
